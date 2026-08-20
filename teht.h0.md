@@ -32,4 +32,3 @@ Luodaan se tekemällä nano Hello.cpp
 
 - https://opensource.com/article/20/4/linux-binary-analysis
 - https://www.coddykit.com/pages/blog-detail?id=512582&slug=unlocking-the-black-box-a-beginner-s-guide-to-reverse-engineering-binary-analysi
-- 
